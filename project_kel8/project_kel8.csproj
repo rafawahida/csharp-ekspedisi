@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDC031BA-9169-4D03-814D-0878A8E1D7FB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project_kel8</RootNamespace>
+    <AssemblyName>project_kel8</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BestShipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BestShipment.Designer.cs">
+      <DependentUpon>BestShipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculateDistance.cs" />
+    <Compile Include="DashboardAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardAdmin.Designer.cs">
+      <DependentUpon>DashboardAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardKasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardKasir.Designer.cs">
+      <DependentUpon>DashboardKasir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardManager.Designer.cs">
+      <DependentUpon>DashboardManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsEkspedisi.cs">
+      <DependentUpon>dsEkspedisi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsEkspedisi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsEkspedisi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ekspedisi_Kel08DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ekspedisi_Kel08DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterGudang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterGudang.Designer.cs">
+      <DependentUpon>MasterGudang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterJenisPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterJenisPengiriman.Designer.cs">
+      <DependentUpon>MasterJenisPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterKabupaten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterKabupaten.Designer.cs">
+      <DependentUpon>MasterKabupaten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterKaryawan.Designer.cs">
+      <DependentUpon>MasterKaryawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterKecamatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterKecamatan.Designer.cs">
+      <DependentUpon>MasterKecamatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterRole.Designer.cs">
+      <DependentUpon>MasterRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanggilBestShipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanggilBestShipment.Designer.cs">
+      <DependentUpon>PanggilBestShipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanggilPemasukan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanggilPemasukan.Designer.cs">
+      <DependentUpon>PanggilPemasukan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanggilResi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanggilResi.Designer.cs">
+      <DependentUpon>PanggilResi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Point.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Session.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="tampung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tampung.Designer.cs">
+      <DependentUpon>tampung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiPelacakan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiPelacakan.Designer.cs">
+      <DependentUpon>TransaksiPelacakan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiPengiriman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiPengiriman.Designer.cs">
+      <DependentUpon>TransaksiPengiriman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiPromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransaksiPromo.Designer.cs">
+      <DependentUpon>TransaksiPromo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BestShipment.rdlc" />
+    <EmbeddedResource Include="BestShipment.resx">
+      <DependentUpon>BestShipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardAdmin.resx">
+      <DependentUpon>DashboardAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardKasir.resx">
+      <DependentUpon>DashboardKasir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardManager.resx">
+      <DependentUpon>DashboardManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Income.rdlc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterGudang.resx">
+      <DependentUpon>MasterGudang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterJenisPengiriman.resx">
+      <DependentUpon>MasterJenisPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterKabupaten.resx">
+      <DependentUpon>MasterKabupaten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterKaryawan.resx">
+      <DependentUpon>MasterKaryawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterKecamatan.resx">
+      <DependentUpon>MasterKecamatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterRole.resx">
+      <DependentUpon>MasterRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanggilBestShipment.resx">
+      <DependentUpon>PanggilBestShipment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanggilPemasukan.resx">
+      <DependentUpon>PanggilPemasukan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanggilResi.resx">
+      <DependentUpon>PanggilResi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportBestShipment.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportResiPengiriman.rdlc" />
+    <EmbeddedResource Include="tampung.resx">
+      <DependentUpon>tampung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiPelacakan.resx">
+      <DependentUpon>TransaksiPelacakan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiPengiriman.resx">
+      <DependentUpon>TransaksiPengiriman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransaksiPromo.resx">
+      <DependentUpon>TransaksiPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dsEkspedisi.xsc">
+      <DependentUpon>dsEkspedisi.xsd</DependentUpon>
+    </None>
+    <None Include="dsEkspedisi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsEkspedisi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsEkspedisi.xss">
+      <DependentUpon>dsEkspedisi.xsd</DependentUpon>
+    </None>
+    <None Include="Ekspedisi_Kel08DataSet.xsc">
+      <DependentUpon>Ekspedisi_Kel08DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Ekspedisi_Kel08DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ekspedisi_Kel08DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Ekspedisi_Kel08DataSet.xss">
+      <DependentUpon>Ekspedisi_Kel08DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clerk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delivery %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\self-service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receipt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-06-27 at 13.24.02.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-06-28 at 08.21.43.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cepat&amp;aman_putih.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\best kurir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\savee.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diskette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quality %281%29.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

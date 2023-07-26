@@ -1,0 +1,493 @@
+C:\Users\student\Documents\project\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+C:\Users\student\Documents\project\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+C:\Users\student\Documents\project\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+C:\Users\student\Documents\project\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+C:\Users\student\Documents\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+C:\Users\student\Documents\project\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\project\project\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\backup\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.BestKurir.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.BestKurir.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.tampung.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.BestKurir.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.tampung.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.tampung.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\EnvDTE.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\stdole.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.ReportIncome.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPromo.resources
+D:\PROJECT KELOMPOK 8\Project bang\bismillah\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.LaporanResi.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\EnvDTE.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\stdole.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.tampung.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPromo.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilResi.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilPemasukan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\EnvDTE.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\stdole.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilPemasukan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilResi.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.tampung.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPromo.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.BestShipment.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilBestShipment.resources
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\Income.rdlc
+D:\PROJECT KELOMPOK 8\Project bang\backupppp\project_kel8\project_kel8\project_kel8\project_kel8\project_kel8\bin\Debug\ReportBestShipment.rdlc
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Income.rdlc
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ReportBestShipment.rdlc
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe.config
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.exe
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\project_kel8.pdb
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Guna.UI2.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\EnvDTE.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\stdole.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.AssemblyReference.cache
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.SuggestedBindingRedirects.cache
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.BestShipment.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardAdmin.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardKasir.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.DashboardManager.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Login.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterGudang.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterJenisPengiriman.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKabupaten.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKaryawan.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterKecamatan.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.MasterRole.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilBestShipment.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilPemasukan.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.PanggilResi.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.Properties.Resources.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.tampung.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPelacakan.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPengiriman.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.TransaksiPromo.resources
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.GenerateResource.cache
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CoreCompileInputs.cache
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.csproj.CopyComplete
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.exe
+C:\projek backup report\project_kel8\project_kel8\project_kel8\obj\Debug\project_kel8.pdb
